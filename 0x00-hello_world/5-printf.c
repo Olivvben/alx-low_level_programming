@@ -1,8 +1,8 @@
 #include "stdio.h"
 /**
- * main- prints exactly with proper grammar,
+ * main - prints exactly with proper grammar,
  *	but the outcome is a piece of art,
- * return: always 0
+ * Return: always 0
  */
 int main(void)
 {
