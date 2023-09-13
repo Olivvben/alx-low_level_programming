@@ -2,14 +2,14 @@
 
 /**
  * add - adds two integers and returns the result.
+ * @num1: number 1
+ * @num2: number 2
  * Return: retrun the result
  */
 
-int add(int, int)
+int add(int num1, int num2)
 {
-	int num1;
-	int num2;
-
-	result= num1 + num2;
+	int result;
+	result = num1 + num2;
 	return(result);
 }
