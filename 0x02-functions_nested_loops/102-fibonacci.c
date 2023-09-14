@@ -11,7 +11,7 @@ int main(void)
 	unsigned long n1 = 0, n2 = 1, n3;
 	int i;
 
-	for (i = 0; i <= 50; i++)
+	for (i = 1; i <= 50; i++)
 	{
 		if (i < 50)
 		{
