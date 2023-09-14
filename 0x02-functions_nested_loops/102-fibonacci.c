@@ -18,11 +18,11 @@ int main(void)
 			n3 = n1 + n2;
 			n1 = n2;
 			n2 = n3;
-			printf("%d, ",n3);
+			printf("%lu, ",n3);
 		}
 		else if (i == 50)
 		{
-			prinf("%d\n", n3);
+			printf("%lu\n", n3);
 		}
 	}
 	return 0;
