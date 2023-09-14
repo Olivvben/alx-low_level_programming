@@ -13,14 +13,14 @@ int main(void)
 
 	for (i = 0; i <= 50; i++)
 	{
-		if (i < 49)
+		if (i < 50)
 		{
 			n3 = n1 + n2;
 			n1 = n2;
 			n2 = n3;
 			printf("%lu, ", n3);
 		}
-		else if (i == 50)
+		else
 		{
 			printf("%lu\n", n3);
 		}
